@@ -1,2 +1,3 @@
 # codeforces_cpp
-All the codeforces problems that i solved
+All the codeforces problems that i solved using cpp.
+
